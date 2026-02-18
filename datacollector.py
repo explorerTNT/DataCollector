@@ -57,7 +57,6 @@ def collect_text_from_folders(folders, extension, use_multithreading=False):
 
 
 def main():
-    print("Привет! Это MVP агрегатор текста из файлов в папках.")
     print("Программа соберёт весь текст из файлов с указанным расширением и сохранит в файл.")
 
     while True:
